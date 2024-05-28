@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'PWM_Motor' 
+ * Project: 'Led using key' 
  * Target:  'Target 1' 
  */
 
